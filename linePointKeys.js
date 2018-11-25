@@ -1,0 +1,1 @@
+const linePointKeys = ['startsPoint', 'endsPoint']

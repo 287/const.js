@@ -1,0 +1,1 @@
+const colorTypes = ['hex', 'rgb', 'hsl']

@@ -1,0 +1,1 @@
+const sizeKeys = ['width', 'height']

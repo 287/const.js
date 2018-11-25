@@ -1,0 +1,1 @@
+const vowelChrs = 'aeiou'

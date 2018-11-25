@@ -1,0 +1,1 @@
+const directionKeys = ['prev', 'next']

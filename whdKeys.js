@@ -1,0 +1,1 @@
+const whdKeys = ['width', 'height', 'depth']

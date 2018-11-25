@@ -1,0 +1,1 @@
+const valueTypes = ['number', 'int', 'float', 'string', 'boolean', 'array', 'object']

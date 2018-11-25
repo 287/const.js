@@ -1,0 +1,1 @@
+const gradientKeys = ['linear', 'radial']
