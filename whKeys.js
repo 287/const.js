@@ -1,1 +1,1 @@
-const sizeKeys = ['width', 'height']
+const whKeys = ['width', 'height']
