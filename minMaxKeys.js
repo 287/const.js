@@ -1,0 +1,1 @@
+const minMaxKeys = ['min', 'max']
