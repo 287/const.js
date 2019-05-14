@@ -1,1 +1,1 @@
-const stringBlockWraps = ['""', "''", '``']
+const stringBlockWraps = ['""\\', "''\\", '``\\']
